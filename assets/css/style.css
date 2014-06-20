@@ -91,3 +91,7 @@ h3 {
 .example{
 	font-weight: 100;
 }
+
+.subhead{
+	margin-top: .75em;
+}
