@@ -74,16 +74,18 @@ h3 {
 /*******Site Stylings********/
 .definition{
 	font-size: 1.5em;
-	height: 600px;
+	height: 200px;
 }
 
 .footer{
 	width:100%;
+	font-size: 1.2em;
 	text-align:center;
 }
 
 .socialmedia{
 	text-align:center;
+	font-size: 1.2em;
 }
 
 .example{
